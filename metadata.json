@@ -1,0 +1,5 @@
+{
+  "name": "ApexEngine Sim",
+  "description": "A high-fidelity AI engine simulator. Design custom internal combustion and hybrid powertrains, then analyze their performance curves using Gemini 2.5.",
+  "requestFramePermissions": []
+}
